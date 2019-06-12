@@ -1,0 +1,55 @@
+Paramasivam2017Computer
+
+No estudo, é apresentado o relato de duas edições de uma oficina de ensino de programação de robôs.
+No estudo, fica evidenciado o interesse dos autores em motivar os alunos através da utilização de robôs capazes de que executar tarefas praticas que poderiam auxilià-los no dia a dia.
+
+O sistema robótico utilizado consiste de um Turtlebot, um robô capaz de realizar navagação autônoma em ambiente
+
+Como metodologia, no estudo, os alunos inicialmente foram ensinados sobre conceitos básicos de robótica e programação. A metodologia de aprendizagem consistiu em minimizar tempo de aula expositiva e maximimar atividades práticas. Inicialmente os alunos foram apresentados às plataformas robóticas que seriam utilizadas e vizualizavam alguns exemplos de programa e execução de programa no robô. Após os exemplos, os alunos recebiam programas prontos e eram instruídos a fazer as suas pŕoprias modificações nos programas e executá-los nos robôs.
+
+No estudo, em ambas as edições das oficinas foi realizado entrevista semi-estuturada no último dia de atividades, onde os alunos descreviam as atividades realizadas e eram questionados sobre o trabalho desenvolvido. As entrevistas foram registradas em vídeo.
+
+No estudo foi aplicado questionário pós-oficina.
+
+oficina de robótica: sim, texto discute duas edições do workshop.
+
+atividade com pessoas cegas: sim
+
+duração das atividades:
+
+duração das oficinas: 2015: 5 dias e 2016: 6 dias
+
+métodos aplicados: acionamento de funções de alto nível do robo e ensino de conceitos como funções, laçoes de repetição e parametros. cada grupo trabalhava em uma atividade que compunha uma atividade unica maior, o contexto foi de atendimento a um restaurante, cada grupo desenvolveu funções de recepeção de clientes, anotação de pedido e entrega de comida, e conta e pagamento.
+
+quantidade de participantes: 11 estudantes, três mulheres e oito homens. Juniors and Seniors in Seattle area high school. 4 tinham algum conhecimento prévio de programação os outros 7 não tinha nenhuma experiencia prévia com programação.
+
+Os alunos possuiam variadas disabilities, como surdez, baixa visão, cegueira, paralisia cerebral, distrofia muscular, doença de Ollier, deficit de atenção, sindrome de Asperger e outros aspectos de autismo ou capacidade de aprendizagem.
+
+ofereceram tutorial:
+
+questionário: sim, após a oficina de 2016. questoes relevantes: Q6- 2 estudantes avaliaram a facilidade de aprender com 4/5 e os outros 4 com 5/5. Q7 - Facilidade de implementar a suas ideias: 3x4/5 3x 5/5
+
+coleta de comentário dos usuários: sim
+
+idade dos alunos: high-school students
+
+numero de alunos com deficiencia visual: ?
+
+equipe ou sozinho: 2015: equipes de 2 (1 das duplas trabalhou com um assistente tecnico) 2016: individual
+
+End-user programming tools, focando em permitir a programação de robos para realização de tarefas sem exigir conhecimento tecnico avançado;
+
+Alunos podiam modificar fisicamente o robo adicionando cestas, caixas, escovas de limpeza ou outras ferramentas no robô.
+
+Na primeira edição, alunos editavam o código direto no GitHub e avisavam o instrutor quando o código estava pronto e então o instrutor executava o código no robô real.
+Na segunda edição, alunos podiam criar, salvar e executar seus programas CodeIt através de uma interface web disponibilizada.
+
+No final da oficina os alunos apresentam o programa desenvolvido para todos os outros.
+
+1 - Ensino de conceitos básicos de robótica. Brainstorm em duplas para discutir ideias do que o robô deveria fazer. Primeiro contato com CodeIt.
+2 - Finalizar projeto de ideias, realizar modificações simples no robô fisico e implementar o que foi projetado.
+3 - Teste e debug dos programas desenvolvidos. Melhoramento das implementações.
+4 - Finalização da correção de bugs e apresentação dos robôs. Entrevista com os estudantes.
+5 - Demonstração de outros robôs e funçoes dos robôs. questionário pós-oficina.
+Ensino da linguagem através de exemplos, minimizando ensino e maximizandos atividades práticas.
+Sao disponibilizados alguns codigos exemplo e os alunos realizam modificações no código e executam eles no robô.
