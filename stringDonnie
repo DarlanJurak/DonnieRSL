@@ -1,0 +1,17 @@
+ACM
+
+recordAbstract:((blind OR blindness OR (visually AND impaired) OR (visual AND impairments) OR (student AND disability) OR (unsighted AND pupils) OR (visual AND disability)) AND (robot OR robotic OR robotics) AND (program OR programming))
+acmdlTitle:((blind OR blindness OR (visually AND impaired) OR (visual AND impairments) OR (student AND disability) OR (unsighted AND pupils) OR (visual AND disability)) AND (robot OR robotic OR robotics) AND (program OR programming))
+keywords.author.keyword:((blind OR blindness OR (visually AND impaired) OR (visual AND impairments) OR (student AND disability) OR (unsighted AND pupils) OR (visual AND disability)) AND (robot OR robotic OR robotics) AND (program OR programming))
+
+Scopus
+
+(blind OR blindness OR (visually impaired) OR (visual impairments) OR (student disability) OR (unsighted pupils) OR (visual disability)) AND (robot OR robotic OR robotics) AND (program OR programming)
+
+ScienceDirect
+
+(blind OR blindness OR (visually impaired) OR (visual impairments) OR (student disability) OR (unsighted pupils) OR (visual disability)) AND robot* AND program*
+
+IEEE
+
+(blind OR blindness OR (visually impaired) OR (visual impairments) OR (student disability) OR (unsighted pupils) OR (visual disability)) AND (robot OR robotic OR robotics) AND (program OR programming)
