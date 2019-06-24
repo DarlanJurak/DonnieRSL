@@ -66,13 +66,15 @@ No estudo, fica evidenciado o interesse dos autores em {motivar os}/{impulsionar
 
 Para a execução destas tarefas, as atividades de ensino de programação são realizadas utilizando um Turtlebot, este é um robô amplamente utilizado para atividades de prototipação e testes em variadas áreas da robótica móvel, em geral através de programação, este robô se torna capaz de de realizar navegação autônoma em ambientes reais, atuação manipulando objetos no ambiente e também interação com outros robôs ou seres-humanos. Mas para a programação destas atividades geralmente é exigido um nível alto de conhecimento em programação. Neste estudo, os autores disponibilizam de maneira facilitada a programação destas atividades no Turtlebot através de uma camada a mais de abstração de software que permite a programação utilizando a linguagem CodeIt.
 
+Ainda, como apresentado na Figura X, o Turtlebot foi equipado com utensílios úteis para carregar objetos (e.g. bacias) e ferramentas (e.g. espanador de pó).
+
 Q3 - Quais são os exemplos de boas práticas no ensino de programação de robô para pessoas que são cegas?
 
-Motivação através do uso de robôs capazes de realizar atividades mais complexas quando comparados somente a atividades lúdicas.
+Estíulo de engajamento através do uso de robôs capazes de realizar atividades mais complexas quando comparados somente a atividades lúdicas.
 Aproximar funcionalidades complexas de robótica com interface facilitada, para que os alunos com disabilities sejam capazes de efetivamente desenvolver aplicações uteis para o seu dia a dia com os robos;
 Foco em aprendizagem através de atividades práticas;
 Exigência de baixo conhecimento técnico;
-Interface de programação não intrusiva, executada web, de maneira que os alunos possam realizar a programação nas suas próprias máquinas com ferramentas de auxílio como zoom, leitor de tela e outros, que já possuem em suas máquinas;
+Interface de programação não intrusiva, executada web, de maneira que os alunos possam realizar a programação nas suas próprias máquinas com ferramentas de auxílio como zoom, leitor de tela e outros, que já possuam em suas máquinas;
 
 Q4 - Quais foram as dificuldades/limitações no uso de robótica como apoio ao ensino de programação para pessoas que são cegas?
 
@@ -80,4 +82,4 @@ No estudo [Paramasivam2017Computer] os autores relaram que o fluxo das atividade
 
 Q5 - 
 
-Em comparação com os trabalhos avaliados em [Juliana2017], o estudo [Paramasivam2017Computer] apresenta dois principais aspectos como inovação: 1 - a programação facilitada de robôs capazes de realizar atividades complexas de interação social, manipulação de objetos e navegação autônoma; 2 - disponibilização de interface de programação não intrusiva web, para permitir aos alunos a programação com utilização de ferramentas de auxílio que já possuem em suas máquinas, tais como leitor de tela e zoom.
+Em comparação com os trabalhos avaliados em [Juliana2017], o estudo [Paramasivam2017Computer] apresenta dois principais aspectos como inovação: 1 - a programação facilitada de robôs capazes de realizar atividades complexas de interação social, manipulação de objetos e navegação autônoma; 2 - disponibilização de interface de programação não intrusiva web, para permitir aos alunos a programação com utilização de ferramentas de auxílio que já possuem em suas máquinas, tais como leitor de tela e zoom. Em função das atividades continuarem sendo realizadas com oficinas fica evidentes que é necessário adapatar tais atividades para compor o dia a dia do curriculo escolar de pessoas com deficiencia
